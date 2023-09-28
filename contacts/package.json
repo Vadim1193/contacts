@@ -1,7 +1,7 @@
 {
   "name": "contacts",
   "version": "0.1.0",
-  "homepage": "https://Vadim1193github.io/contacts",
+  "homepage": "https://Vadim1193.github.io/contacts",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
